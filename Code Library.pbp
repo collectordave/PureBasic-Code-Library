@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.51 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Code Library"/>
+  </section>
+  <section name="data">
+    <explorer view="..\..\Program Files (x86)\PureBasic\Examples\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2017-01-01 14:41" user="DaveSandy" host="MEDIAPC"/>
+  </section>
+  <section name="files">
+    <file name="App.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="683558412d5bdc9725b66e30e41e05ab"/>
+    </file>
+    <file name="DCTool.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="1e090e5d618e0f528de5a836b38f20b3"/>
+    </file>
+    <file name="dlgAddEditApplication.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="e4351b5b5189f58fc8858531fe545781"/>
+    </file>
+    <file name="dlgAddEditCustomGadget.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="19505307401d6b779ebe3724e5d543c6"/>
+    </file>
+    <file name="dlgAddEditExample.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="e456cecd7c31f7587ce10d695b597e68"/>
+    </file>
+    <file name="dlgAddEditModule.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="5e61432b697a73ddd3d26d2067392ffc"/>
+    </file>
+    <file name="dlgAddEditProcedure.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="99a97a6561d6e02e05a794ca4e3f5de7"/>
+    </file>
+    <file name="dlgPreferences.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="c638c6e90d33cedc1f4e73c9f70fd068"/>
+    </file>
+    <file name="dlgSearch.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="122e7f1b393a005295a0e7bd8769b426"/>
+    </file>
+    <file name="WinMain.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="a7eed5992659d0fb312a9c67144d7043"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="WinMain.pb"/>
+      <outputfile value="Code Library"/>
+      <options xpskin="1" debug="1"/>
+    </target>
+  </section>
+</project>
